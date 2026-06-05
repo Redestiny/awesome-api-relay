@@ -9,6 +9,7 @@
 | **AiHubMix** | [aihubmix.com](https://aihubmix.com) | 国内企业级聚合 | Claude / GPT / Gemini / DeepSeek / Kimi / MiniMax 等 | Claude 官方价约 3.8 折 | ✅ | ⭐⭐⭐⭐ | 企业用户、多模型切换、可开发票 |
 | **OhMyGPT** | [ohmygpt.com](https://ohmygpt.com) | 老牌多模型站 | Claude / GPT / Gemini / GLM / Qwen / MiniMax | 与官网价格接近，偏贵 | ✅ CDN 多区域 | ⭐⭐⭐ | 对稳定性要求高的用户 |
 | **硅基流动** | [siliconflow.cn](https://siliconflow.cn) | 国产模型为主 | DeepSeek / Qwen / GLM / Kimi 等，兼顾 Claude/GPT | 国产模型极便宜，高并发强 | ✅ | ⭐⭐⭐⭐ | 高并发场景、国产模型用户 |
+| **CoderPlan** | [coderplan.ai](https://coderplan.ai) | 面向开发者的 LLM API 中转 | Claude / GPT / Gemini / DeepSeek / Grok 全系列 | 官方价约 0.7 折，按量付费 | ✅ 港新节点 | ⭐⭐⭐⭐ | Claude Code / Codex CLI 用户、个人开发者 |
  
 ---
  
@@ -19,4 +20,5 @@
 - 国内直连 + 模型覆盖全 + 可开票 → **AiHubMix**
 - 稳定第一、不差钱 → **OhMyGPT**
 - 主用 DeepSeek / Qwen 等国产模型 → **硅基流动**
+- Claude Code / Codex CLI 一行配置接入 → **CoderPlan**
 
