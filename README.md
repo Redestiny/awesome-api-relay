@@ -20,3 +20,5 @@
 - 稳定第一、不差钱 → **OhMyGPT**
 - 主用 DeepSeek / Qwen 等国产模型 → **硅基流动**
 
+
+- [JiuRelay](https://jiurelay.com/) - Free AI API relay for GPT, Claude, GLM. No registration required, 1-hour valid key, OpenAI/Anthropic compatible.
